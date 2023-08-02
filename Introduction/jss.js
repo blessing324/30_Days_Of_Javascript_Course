@@ -1,17 +1,3 @@
-// checking for various datatypes
-let firstName = 'Idowu' 
-let isSingle = false
-let undefined
-let nullValue = null
-let int = 5
-let dec = 10.8
-console.log(typeof 'Idowu')
-console.log(typeof false)
-console.log(typeof undefined)
-console.log(typeof null)
-console.log(typeof 5)
-console.log(typeof 5.8)
-// declaring four variables without assining values
 fName
 school
 age
