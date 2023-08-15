@@ -3,3 +3,4 @@ let first_Name = 'Idowu' , last_Name = 'Blessing' , marital_Status = 'single' , 
 //declaring and assigning values to two variables
 let myAge = 18
 let yourAge = 36
+console.log( myAge, yourAge)
